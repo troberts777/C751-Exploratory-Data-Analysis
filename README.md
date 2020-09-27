@@ -5,6 +5,7 @@ In this project, you will use R and apply exploratory data analysis techniques i
 
 ## Red Wine Quality Exploration Data Analysis
 ### Project Files
-
-red wind.rmd
-red wine.html
+<ul>
+<li>red wind.rmd</li>
+<li>red wine.html</li>
+</ul>
