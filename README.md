@@ -6,8 +6,8 @@ In this project, you will use R and apply exploratory data analysis techniques i
 ## Red Wine Quality Exploration Data Analysis
 ### Project Files
 <ul>
-<li>red wine.rmd</li>
-<li>red wine.html</li>
+<li>red wine_eda.rmd</li>
+<li>red wine_eda.html</li>
   <li>Exploratory Data Analysis - Red Wine Quality.pdf</li>
 <li>wineQualityReds.csv</li>  
   
