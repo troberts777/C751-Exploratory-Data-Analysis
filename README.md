@@ -8,4 +8,7 @@ In this project, you will use R and apply exploratory data analysis techniques i
 <ul>
 <li>red wine.rmd</li>
 <li>red wine.html</li>
+  <li>Exploratory Data Analysis - Red Wine Quality.pdf</li>
+<li>wineQualityReds.csv</li>  
+  
 </ul>
